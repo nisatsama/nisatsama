@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nisat 👋
 
-<!--
-**nisatsama/nisatsama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE @ Adamas University | 2nd Year | CGPA: 9.325
+💻 Aspiring Software Development Engineer
+🌍 Building: Travel Website (MERN Stack)
+🧠 LeetCode: 258+ problems solved | 97E · 123M · 38H
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+Java | C | C++ | Python (basics)
+MongoDB | Express.js | React | Node.js
+Data Structures & Algorithms | OOP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 LeetCode
+Profile: leetcode.com/u/sunkissed_daring
+
+## 📫 Connect
+LinkedIn: linkedin.com/in/nisat-sama-aa02a53a3
