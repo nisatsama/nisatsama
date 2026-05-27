@@ -1,7 +1,7 @@
 # Hi, I'm Nisat 👋
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:8A2BE2,50:FF69B4,100:00C9FF&text=Nisat%20Sama&fontSize=55&fontColor=ffffff"/>
+<img src="banner.jpeg"/>
 </p>
 
 <p align="center">
