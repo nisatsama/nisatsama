@@ -1,6 +1,7 @@
 # Hi, I'm Nisat 👋
 
 <p align="center">
+  <h1>Nisat Sama</h1>
 <img src="banner.jpeg"/>
 </p>
 
