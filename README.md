@@ -37,8 +37,7 @@ Current Focus:
   - Backend Development
   - Full Stack Projects
 
-Goal:
-  Become a Software Engineer by 2027 🚀
+
 ````
 
 ---
@@ -46,7 +45,7 @@ Goal:
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,python,git,github,vscode,figma"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,c,cpp,python,git,github,vscode,canva"/>
 </p>
 
 ---
@@ -88,8 +87,3 @@ Goal:
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:F75CFF,100:00C9FF&height=120&section=footer"/>
-</p>
-``
