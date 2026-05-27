@@ -6,10 +6,13 @@
 🧠 LeetCode: 258+ problems solved | 97E · 123M · 38H
 
 ## 🛠 Tech Stack
-Java | C | C++ | Python (basics)
+Java | C 
 MongoDB | Express.js | React | Node.js
 Data Structures & Algorithms | OOP
+Git | Github
 
+##GeekforGeeks
+https://www.geeksforgeeks.org/profile/nisatsaywh7
 ## 📊 LeetCode
 Profile: leetcode.com/u/sunkissed_daring
 
