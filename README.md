@@ -1,4 +1,5 @@
-````md
+``
+
 <p align="center">
   <img width="100%" src="banner.jpeg" />
 </p>
@@ -91,4 +92,4 @@ Goal:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:F75CFF,100:00C9FF&height=120&section=footer"/>
 </p>
-```
+``
