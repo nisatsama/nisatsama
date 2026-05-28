@@ -100,7 +100,7 @@ Visualize Data Structures & Algorithms step-by-step to understand concepts bette
 ☁️ Weather App  
 <sub>API Integration</sub>
 A weather application that shows real-time weather updates using OpenWeather API.
-![API](https://img.shields.io/badge/API-v3-blue)
+<img src="react.svg">
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3)
     </td>
 </tr>
