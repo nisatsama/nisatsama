@@ -1,54 +1,120 @@
-<h1 align="center">Hi there, I'm Nisat 👋</h1>
 <p align="center">
-  <b>BTech CSE '28 @ Adamas University &nbsp;·&nbsp; Aspiring SDE &nbsp;·&nbsp; Building, Learning, Growing</b>
+  <img width="100%" src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/Black%20Minimalist%20Linkedin%20Banner%20(1).png" alt="Nisat Sama Banner" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nisatsama&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
----
-👨‍💻 About Me
-🎓 2nd year B.Tech in Computer Science Engineering at Adamas University (2024–2028)
-🎯 Goal: Land a Software Development Engineer (SDE) role at a top product/service company by 2027
-💡 Currently strengthening my foundation in DSA, OOP, and full-stack development
-⚡ Fun fact: I scored 100/100 in Math (ICSE) and 100/100 in Chemistry (ISC) — yes, both!
----
-🛠️ Tech Stack
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="30%" valign="top">
+      <p align="center">
+        <img src="https://github.com/nisatsama.png" width="150px" style="border-radius: 50%;" />
+      </p>
+      <br />
+      ### 🆔 ABOUT ME
+
+      A passionate developer who loves turning ideas into reality through code. I enjoy solving problems, learning new tech, and building projects that make impact. 💜
+
+      <br />
+
+      <p align="center">
+        <a href="https://linkedin.com/in/nisat-sama-aa02a53a3" target="_blank">
+          <img src="https://img.shields.io/badge/Let's%20Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"/>
+        </a>
+      </p>
+
+      <br />
+
+      📧 **Email:** your.email@example.com  
+      🔗 **LinkedIn:** [linkedin.com/in/nisat-sama](https://linkedin.com/in/nisat-sama-aa02a53a3)  
+      🐙 **GitHub:** [github.com/nisatsama](https://github.com/nisatsama)  
+      📍 **Location:** India 🇮🇳
+
+      ---
+
+      ### 🌟 Currently Learning
+
+      Advanced DSA, System Design & Cloud Technologies
+
+      <p align="center">
+        <img src="https://geps.dev/progress/75?dangerColor=bf5af2&warningColor=bf5af2&successColor=bf5af2" alt="Progress 75%" width="100%" />
+      </p>
+    </td>
+
+    <td width="4%"></td>
+
+    <td width="66%" valign="top">
+
+Hi, I'm Nisat 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=F75CFF&width=600&vCenter=true&lines=System.out.println(%22Passionate+about+DSA%2C+Web+Dev+%26+Problem+Solving%22)%3B" alt="Typing SVG" />
+🎓 B.Tech CSE @ Adamas University (2nd Year)  |  💻 Aspiring Software Development Engineer  
+🧠 LeetCode: 258+ problems solved  |  🔥 97E+ on LeetCode  |  🌍 Building: Travel Website (MERN Stack)
+<br />
+⚡ TECH STACK
+Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,c,js,python,html,css" />
 </p>
----
-📂 Featured Repositories
-Repo	Description	Language
-OOPs-in-Java	Concepts and implementations of Object-Oriented Programming in Java	Java
-Design-and-Analysis-of-Algorithms	Algorithm design paradigms and analysis	C
-DAA_LAB	Lab programs for Design & Analysis of Algorithms	C
-REACT	React.js learning and projects	JavaScript
-PROJECTS	Personal and academic project collection	JavaScript
-backend	Backend development experiments	—
----
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisatsama&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisatsama&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisatsama&theme=tokyonight&hide_border=true" />
-</p>
----
-📫 Let's Connect
+Frontend
 <p>
-  <a href="https://github.com/nisatsama">
-    <img src="https://img.shields.io/badge/GitHub-nisatsama-181717?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 </p>
+Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+<br />
+📊 GITHUB STATS
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nisatsama&show_icons=true&theme=radical&bg_color=1a1025&title_color=bf5af2&icon_color=bf5af2&text_color=ffffff&border_color=2d1b4e&border_radius=10" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nisatsama&theme=radical&background=1a1025&ring=bf5af2&fire=bf5af2&currStreakLabel=ffffff&sideLabels=ffffff&border=2d1b4e&border_radius=10" />
+    </td>
+</tr>
+</table>
+<br />
 ---
+<br />
+🚀 FEATURED PROJECTS
+<br />
+<table border="0" cellpadding="12" cellspacing="0" width="100%">
+  <tr>
+    <td width="32%" valign="top">
+✈️ Travel Website  
+<sub>MERN Stack</sub>
+A full-stack travel website to explore destinations, book trips and manage itineraries.
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js)
+    </td>
+    <td width="2%"></td>
+    <td width="32%" valign="top">
+
+📋 DSA Visualizer  
+<sub>JavaScript</sub>
+Visualize Data Structures & Algorithms step-by-step to understand concepts better.
+![JS](https://img.shields.io/badge/JS-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5)
+    </td>
+    <td width="2%"></td>
+    <td width="32%" valign="top">
+
+☁️ Weather App  
+<sub>API Integration</sub>
+A weather application that shows real-time weather updates using OpenWeather API.
+![API](https://img.shields.io/badge/API-v3-blue)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3)
+    </td>
+</tr>
+</table>
+<br />
+<br />
 <p align="center">
-  <i>"Consistency beats intensity. Show up, build something, repeat."</i>
+  <i>"The best way to predict the future is to invent it."</i>
+</p>
+<p align="center">
+  <b>— Alan Kay</b>
+</p>
+<br />
+<p align="center">
+  Thanks for visiting! 😊 <br />
+  © 2026 Nisat Sama
 </p>
