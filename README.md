@@ -8,39 +8,34 @@
         <img src="https://github.com/nisatsama.png" width="150px" style="border-radius: 50%;" />
       </p>
       <br />
-      ### 🆔 ABOUT ME
+       
+ 
 
-      A passionate developer who loves turning ideas into reality through code. I enjoy solving problems, learning new tech, and building projects that make impact. 💜
+**🆔 ABOUT ME** A passionate developer who loves turning ideas into reality through code. I enjoy solving problems, learning new tech, and building projects that make impact. 💜 
+ 
 
-      <br />
+📧 **Email:** nisatsama@example.com 🔗 **LinkedIn:** [linkedin.com/in/nisat-sama](https://linkedin.com/in/nisat-sama-aa02a53a3) 🐙 **GitHub:** [github.com/nisatsama](https://github.com/nisatsama) 📍 **Location:** India 🇮🇳 --- **🌟 Currently Learning** Advanced DSA, System Design & Cloud Technologies 
+ 		Hi, I'm Nisat 👋  🎓 B.Tech CSE @ Adamas University (2nd Year) | 💻 Aspiring Software Development Engineer 🧠 LeetCode: 258+ problems solved | 🔥 97E+ on LeetCode | 🌍 Building: Travel Website (MERN Stack) 
+⚡ TECH STACK Languages 
+ 
+Frontend 
+ 
+Backend & Database 
+ 
+Tools & Others 
+ 
 
-      <p align="center">
-        <a href="https://linkedin.com/in/nisat-sama-aa02a53a3" target="_blank">
-          <img src="https://img.shields.io/badge/Let's%20Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"/>
-        </a>
-      </p>
+📊 GITHUB STATS   
 
-      <br />
+--- 
+🚀 FEATURED PROJECTS 
+✈️ Travel Website MERN Stack A full-stack travel website to explore destinations, book trips and manage itineraries. ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js) 		📋 DSA Visualizer JavaScript Visualize Data Structures & Algorithms step-by-step to understand concepts better. ![JS](https://img.shields.io/badge/JS-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5) 		☁️ Weather App API Integration A weather application that shows real-time weather updates using OpenWeather API. ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3) 
 
-      📧 **Email:** your.email@example.com  
-      🔗 **LinkedIn:** [linkedin.com/in/nisat-sama](https://linkedin.com/in/nisat-sama-aa02a53a3)  
-      🐙 **GitHub:** [github.com/nisatsama](https://github.com/nisatsama)  
-      📍 **Location:** India 🇮🇳
+"The best way to predict the future is to invent it." 
+— Alan Kay 
 
-      ---
-
-      ### 🌟 Currently Learning
-
-      Advanced DSA, System Design & Cloud Technologies
-
-      <p align="center">
-        <img src="https://geps.dev/progress/75?dangerColor=bf5af2&warningColor=bf5af2&successColor=bf5af2" alt="Progress 75%" width="100%" />
-      </p>
-    </td>
-
-    <td width="4%"></td>
-
-    <td width="66%" valign="top">
+Thanks for visiting! 😊 
+© 2026 Nisat Sama 
 
 Hi, I'm Nisat 👋
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=F75CFF&width=600&vCenter=true&lines=System.out.println(%22Passionate+about+DSA%2C+Web+Dev+%26+Problem+Solving%22)%3B" alt="Typing SVG" />
