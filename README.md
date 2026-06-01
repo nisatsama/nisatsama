@@ -11,11 +11,21 @@
        
  
 
-**🆔 ABOUT ME** A passionate developer who loves turning ideas into reality through code. I enjoy solving problems, learning new tech, and building projects that make impact. 💜 
+A passionate developer who loves turning ideas into reality through code. I enjoy solving problems, learning new tech, and building projects that make impact. 💜 
  
 
-📧 **Email:** nisatsama@example.com 🔗 **LinkedIn:** [linkedin.com/in/nisat-sama](https://linkedin.com/in/nisat-sama-aa02a53a3) 🐙 **GitHub:** [github.com/nisatsama](https://github.com/nisatsama) 📍 **Location:** India 🇮🇳 --- **🌟 Currently Learning** Advanced DSA, System Design & Cloud Technologies 
- 		Hi, I'm Nisat 👋  🎓 B.Tech CSE @ Adamas University (2nd Year) | 💻 Aspiring Software Development Engineer 🧠 LeetCode: 258+ problems solved | 🔥 97E+ on LeetCode | 🌍 Building: Travel Website (MERN Stack) 
+📧 **Email:** nisatsama@example.com 
+
+🔗 **LinkedIn:** [linkedin.com/in/nisat-sama](https://linkedin.com/in/nisat-sama-aa02a53a3) 
+
+🐙 **GitHub:** [github.com/nisatsama](https://github.com/nisatsama) 
+📍 **Location:** India 🇮🇳 --- **
+🌟 Currently Learning** Advanced DSA, System Design & Cloud Technologies 
+
+--
+ 		Hi, I'm Nisat 👋 
+    🎓 B.Tech CSE @ Adamas University (2nd Year) | 💻 Aspiring Software Development Engineer 
+    
 ⚡ TECH STACK Languages 
  
 Frontend 
