@@ -19,8 +19,9 @@ A passionate developer who loves turning ideas into reality through code. I enjo
 🔗 **LinkedIn:** [linkedin.com/in/nisat-sama](https://linkedin.com/in/nisat-sama-aa02a53a3) 
 
 🐙 **GitHub:** [github.com/nisatsama](https://github.com/nisatsama) 
-📍 **Location:** India 🇮🇳 --- **
-🌟 Currently Learning** Advanced DSA, System Design & Cloud Technologies 
+
+📍 **Location:** India
+
 
 --
  		Hi, I'm Nisat 👋 
@@ -31,6 +32,7 @@ A passionate developer who loves turning ideas into reality through code. I enjo
 
 ✈️ Travel Website MERN Stack 
 A full-stack travel website to explore destinations, book trips and manage itineraries.
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js) 		 	
 
 
@@ -54,13 +56,13 @@ Tools & Others
 </p>
 <br />
 📊 GITHUB STATS
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nisatsama&show_icons=true&theme=radical&bg_color=1a1025&title_color=bf5af2&icon_color=bf5af2&text_color=ffffff&border_color=2d1b4e&border_radius=10" />
+
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nisatsama&theme=radical&background=1a1025&ring=bf5af2&fire=bf5af2&currStreakLabel=ffffff&sideLabels=ffffff&border=2d1b4e&border_radius=10" />
     </td>
 </tr>
 </table>
 <br />
----
+
 <br />
 
 "The best way to predict the future is to invent it." 
