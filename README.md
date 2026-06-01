@@ -26,32 +26,15 @@ A passionate developer who loves turning ideas into reality through code. I enjo
  		Hi, I'm Nisat 👋 
     🎓 B.Tech CSE @ Adamas University (2nd Year) | 💻 Aspiring Software Development Engineer 
     
-⚡ TECH STACK Languages 
- 
-Frontend 
- 
-Backend & Database 
- 
-Tools & Others 
- 
 
-📊 GITHUB STATS   
-
---- 
 🚀 FEATURED PROJECTS 
-✈️ Travel Website MERN Stack A full-stack travel website to explore destinations, book trips and manage itineraries. ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js) 		📋 DSA Visualizer JavaScript Visualize Data Structures & Algorithms step-by-step to understand concepts better. ![JS](https://img.shields.io/badge/JS-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5) 		☁️ Weather App API Integration A weather application that shows real-time weather updates using OpenWeather API. ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3) 
 
-"The best way to predict the future is to invent it." 
-— Alan Kay 
+✈️ Travel Website MERN Stack 
+A full-stack travel website to explore destinations, book trips and manage itineraries.
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js) 		 	
 
-Thanks for visiting! 😊 
-© 2026 Nisat Sama 
 
-Hi, I'm Nisat 👋
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=F75CFF&width=600&vCenter=true&lines=System.out.println(%22Passionate+about+DSA%2C+Web+Dev+%26+Problem+Solving%22)%3B" alt="Typing SVG" />
-🎓 B.Tech CSE @ Adamas University (2nd Year)  |  💻 Aspiring Software Development Engineer  
-🧠 LeetCode: 258+ problems solved  |  🔥 97E+ on LeetCode  |  🌍 Building: Travel Website (MERN Stack)
-<br />
+
 ⚡ TECH STACK
 Languages
 <p>
@@ -79,47 +62,11 @@ Tools & Others
 <br />
 ---
 <br />
-🚀 FEATURED PROJECTS
-<br />
-<table border="0" cellpadding="12" cellspacing="0" width="100%">
-  <tr>
-    <td width="32%" valign="top">
-✈️ Travel Website  
-<sub>MERN Stack</sub>
-A full-stack travel website to explore destinations, book trips and manage itineraries.
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js)
-    </td>
-    <td width="2%"></td>
-    <td width="32%" valign="top">
 
-📋 DSA Visualizer  
-<sub>JavaScript</sub>
-Visualize Data Structures & Algorithms step-by-step to understand concepts better.
-![JS](https://img.shields.io/badge/JS-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5)
-    </td>
-    <td width="2%"></td>
-    <td width="32%" valign="top">
+"The best way to predict the future is to invent it." 
+— Alan Kay 
 
-☁️ Weather App  
-<sub>API Integration</sub>
-A weather application that shows real-time weather updates using OpenWeather API.
-<img src="react.svg">
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3)
-    </td>
-</tr>
-</table>
-<br />
-<br />
-<p align="center">
-  <i>"The best way to predict the future is to invent it."</i>
-</p>
-<p align="center">
-  <b>— Alan Kay</b>
-</p>
-<br />
-<p align="center">
-  Thanks for visiting! 😊 <br />
-  © 2026 Nisat Sama
-</p>
+Thanks for visiting! 😊 
+© 2026 Nisat Sama 
+
+
