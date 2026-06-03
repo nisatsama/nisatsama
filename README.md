@@ -14,9 +14,9 @@
 A passionate developer who loves turning ideas into reality through code. I enjoy solving problems, learning new tech, and building projects that make impact. 💜 
  
 
-📧 **Email:** nisatsama@example.com 
+📧 **Email:** nisatsama7547@gmail.com
 
-🔗 **LinkedIn:** [linkedin.com/in/nisat-sama](https://linkedin.com/in/nisat-sama-aa02a53a3) 
+🔗 **LinkedIn:**  http://linkedin.com/in/nisat-sama-aa02a53a3
 
 🐙 **GitHub:** [github.com/nisatsama](https://github.com/nisatsama) 
 
