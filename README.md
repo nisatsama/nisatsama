@@ -27,15 +27,102 @@ A passionate developer who loves turning ideas into reality through code. I enjo
  		Hi, I'm Nisat 👋 
     🎓 B.Tech CSE @ Adamas University (2nd Year) | 💻 Aspiring Software Development Engineer 
     
+# 🚀 Featured Projects
 
-🚀 FEATURED PROJECTS 
+<table>
+<tr>
 
-✈️ Travel Website MERN Stack 
-A full-stack travel website to explore destinations, book trips and manage itineraries.
+<td width="50%">
+<h3>✈️ Travelogia</h3>
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js) 		 	
+Modern MERN travel booking platform with destination discovery,
+hotel listings, authentication and responsive design.
+<table>
+<tr>
+<td width="50%">
 
+<h2>✈️ Travelogia</h2>
 
+<p>
+A modern full-stack travel booking platform designed to simplify trip planning,
+destination discovery, and hotel reservations through a seamless user experience.
+</p>
+
+<h3>🚀 Key Features</h3>
+
+<ul>
+<li>🌍 Explore destinations worldwide</li>
+<li>🏨 Hotel & accommodation listings</li>
+<li>🔍 Smart search and filtering</li>
+<li>👤 Secure authentication system</li>
+<li>📱 Fully responsive UI</li>
+</ul>
+
+<h3>🛠️ Tech Stack</h3>
+
+<p>
+React • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
+</p>
+
+<p>
+⭐ Real-world MERN application showcasing full-stack development skills.
+</p>
+
+</td>
+</tr>
+</table>
+
+**Tech:** React • Node.js • Express • MongoDB
+
+🔗 Live Demo | 📂 Source Code
+</td>
+
+<td width="50%">
+<h3>🤖 AI Resume Analyzer</h3>
+
+AI-powered ATS analyzer that evaluates resumes,
+detects skill gaps and generates personalized feedback.
+<table>
+<tr>
+<td width="50%">
+
+<h2>🤖 AI Resume Analyzer</h2>
+
+<p>
+An intelligent AI-powered platform that evaluates resumes, analyzes ATS compatibility,
+identifies improvement areas, and generates actionable career insights.
+</p>
+
+<h3>✨ Key Features</h3>
+
+<ul>
+<li>📄 Resume PDF upload</li>
+<li>🎯 ATS score analysis</li>
+<li>🤖 AI-generated feedback</li>
+<li>📊 Skill gap identification</li>
+<li>⚡ Instant improvement suggestions</li>
+</ul>
+
+<h3>🛠️ Tech Stack</h3>
+
+<p>
+React • Node.js • Express.js • MongoDB • Gemini AI • JWT
+</p>
+
+<p>
+🚀 Built to help students and professionals optimize resumes for internships and jobs.
+</p>
+
+</td>
+</tr>
+</table>
+**Tech:** React • Node.js • Express • MongoDB • Gemini AI
+
+🔗 Live Demo | 📂 Source Code
+</td>
+
+</tr>
+</table>
 
 ⚡ TECH STACK
 Languages
