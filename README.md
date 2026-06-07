@@ -1,161 +1,164 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/Black%20Minimalist%20Linkedin%20Banner%20(1).png" alt="Nisat Sama Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/Black%20Minimalist%20Linkedin%20Banner%20(1).png" alt="Nisat Sama Banner"/>
 </p>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="30%" valign="top">
-      <p align="center">
-        <img src="https://github.com/nisatsama.png" width="150px" style="border-radius: 50%;" />
-      </p>
-      <br />
-       
- 
 
-A passionate developer who loves turning ideas into reality through code. I enjoy solving problems, learning new tech, and building projects that make impact. 💜 
- 
+<h1 align="center">Hi 👋, I'm Nisat Sama</h1>
 
-📧 **Email:** nisatsama7547@gmail.com
+<h3 align="center">
+B.Tech CSE Student • Aspiring Software Development Engineer • Full Stack Developer
+</h3>
 
-🔗 **LinkedIn:**  http://linkedin.com/in/nisat-sama-aa02a53a3
+<p align="center">
+  <a href="mailto:nisatsama7547@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-purple?style=for-the-badge"/>
+  </a>
+  <a href="https://linkedin.com/in/nisat-sama-aa02a53a3">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/nisatsama">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"/>
+  </a>
+</p>
 
-🐙 **GitHub:** [github.com/nisatsama](https://github.com/nisatsama) 
+---
 
-📍 **Location:** India
+## 👩‍💻 About Me
 
+🎓 B.Tech Computer Science Engineering (2nd Year)
 
-<br>
- 		Hi, I'm Nisat 👋 
-    🎓 B.Tech CSE @ Adamas University (2nd Year) | 💻 Aspiring Software Development Engineer 
-    
+💻 Passionate about Full Stack Development, AI Applications and Software Engineering
+
+🌱 Currently learning MERN Stack, System Design and Advanced DSA
+
+🚀 Building projects that solve real-world problems
+
+📍 India
+
+---
+
 # 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="50%">
-<h3>✈️ Travelogia</h3>
+<td width="50%" valign="top">
 
-Modern MERN travel booking platform with destination discovery,
-hotel listings, authentication and responsive design.
-<table>
-<tr>
-<td width="50%">
+<h3 align="center">✈️ Travelogia</h3>
 
-<h2>✈️ Travelogia</h2>
-
-<p>
-A modern full-stack travel booking platform designed to simplify trip planning,
-destination discovery, and hotel reservations through a seamless user experience.
+<p align="center">
+A modern MERN travel platform for discovering destinations, booking stays and planning trips seamlessly.
 </p>
 
-<h3>🚀 Key Features</h3>
+### ✨ Features
 
-<ul>
-<li>🌍 Explore destinations worldwide</li>
-<li>🏨 Hotel & accommodation listings</li>
-<li>🔍 Smart search and filtering</li>
-<li>👤 Secure authentication system</li>
-<li>📱 Fully responsive UI</li>
-</ul>
+* 🌍 Destination Discovery
+* 🏨 Hotel Listings
+* 🔍 Advanced Search
+* 👤 Authentication & Authorization
+* 📱 Responsive Design
 
-<h3>🛠️ Tech Stack</h3>
+### 🛠 Tech Stack
 
-<p>
-React • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
-</p>
+React • Node.js • Express.js • MongoDB • JWT
 
-<p>
-⭐ Real-world MERN application showcasing full-stack development skills.
+<p align="center">
+<a href="YOUR_LIVE_LINK">🌐 Live Demo</a> •
+<a href="YOUR_GITHUB_LINK">📂 Repository</a>
 </p>
 
 </td>
-</tr>
-</table>
 
-**Tech:** React • Node.js • Express • MongoDB
+<td width="50%" valign="top">
 
-🔗 Live Demo | 📂 Source Code
-</td>
+<h3 align="center">🤖 AI Resume Analyzer</h3>
 
-<td width="50%">
-<h3>🤖 AI Resume Analyzer</h3>
-
-AI-powered ATS analyzer that evaluates resumes,
-detects skill gaps and generates personalized feedback.
-<table>
-<tr>
-<td width="50%">
-
-<h2>🤖 AI Resume Analyzer</h2>
-
-<p>
-An intelligent AI-powered platform that evaluates resumes, analyzes ATS compatibility,
-identifies improvement areas, and generates actionable career insights.
+<p align="center">
+AI-powered ATS Resume Analyzer that evaluates resumes and provides actionable career insights.
 </p>
 
-<h3>✨ Key Features</h3>
+### ✨ Features
 
-<ul>
-<li>📄 Resume PDF upload</li>
-<li>🎯 ATS score analysis</li>
-<li>🤖 AI-generated feedback</li>
-<li>📊 Skill gap identification</li>
-<li>⚡ Instant improvement suggestions</li>
-</ul>
+* 📄 Resume Upload
+* 🎯 ATS Score Analysis
+* 🤖 AI Feedback
+* 📊 Skill Gap Detection
+* ⚡ Improvement Suggestions
 
-<h3>🛠️ Tech Stack</h3>
+### 🛠 Tech Stack
 
-<p>
 React • Node.js • Express.js • MongoDB • Gemini AI • JWT
+
+<p align="center">
+<a href="https://airesumeanalyser-gu5k.onrender.com">🌐 Live Demo</a> •
+<a href="YOUR_GITHUB_LINK">📂 Repository</a>
 </p>
 
-<p>
-🚀 Built to help students and professionals optimize resumes for internships and jobs.
-</p>
-
-</td>
-</tr>
-</table>
-**Tech:** React • Node.js • Express • MongoDB • Gemini AI
-
-🔗 Live Demo | 📂 Source Code
 </td>
 
 </tr>
 </table>
 
-⚡ TECH STACK
-Languages
+---
+
+# ⚡ Tech Stack
+
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,js,python,html,css" />
+<img src="https://skillicons.dev/icons?i=java,c,js,python,html,css"/>
 </p>
-Frontend
+
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
 </p>
-Backend & Database
+
+### Backend & Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 </p>
-Tools & Others
+
+### Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
 </p>
-<br />
-📊 GITHUB STATS
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nisatsama&theme=radical&background=1a1025&ring=bf5af2&fire=bf5af2&currStreakLabel=ffffff&sideLabels=ffffff&border=2d1b4e&border_radius=10" />
-    </td>
-</tr>
-</table>
-<br />
+---
 
-<br />
+# 📊 GitHub Statistics
 
-"The best way to predict the future is to invent it." 
-— Alan Kay 
+<p align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nisatsama&theme=radical&background=1a1025&ring=bf5af2&fire=bf5af2&currStreakLabel=ffffff&sideLabels=ffffff&border=2d1b4e&border_radius=10"/>
+</p>
 
-Thanks for visiting! 😊 
-© 2026 Nisat Sama 
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nisatsama&show_icons=true&theme=radical"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisatsama&layout=compact&theme=radical"/>
+</p>
 
+---
 
+## 🎯 Current Focus
+
+* Solving DSA Problems Daily
+* Building Full Stack Projects
+* Preparing for SDE Internships
+* Learning System Design
+* Strengthening Backend Development
+
+---
+
+<p align="center">
+
+*"The best way to predict the future is to invent it."*
+
+— Alan Kay
+
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
