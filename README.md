@@ -128,10 +128,7 @@ React • Node.js • Express.js • MongoDB • Gemini AI • JWT
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nisatsama&theme=radical&background=1a1025&ring=bf5af2&fire=bf5af2&currStreakLabel=ffffff&sideLabels=ffffff&border=2d1b4e&border_radius=10"/>
 </p>
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nisatsama&show_icons=true&theme=radical"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisatsama&layout=compact&theme=radical"/>
-</p>
+
 
 ---
 
