@@ -61,10 +61,7 @@ A modern MERN travel platform for discovering destinations, booking stays and pl
 
 React • Node.js • Express.js • MongoDB • JWT
 
-<p align="center">
-<a href="YOUR_LIVE_LINK">🌐 Live Demo</a> •
-<a href="YOUR_GITHUB_LINK">📂 Repository</a>
-</p>
+
 
 </td>
 
