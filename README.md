@@ -85,10 +85,7 @@ AI-powered ATS Resume Analyzer that evaluates resumes and provides actionable ca
 
 React • Node.js • Express.js • MongoDB • Gemini AI • JWT
 
-<p align="center">
-<a href="https://airesumeanalyser-gu5k.onrender.com">🌐 Live Demo</a> •
-<a href="YOUR_GITHUB_LINK">📂 Repository</a>
-</p>
+
 
 </td>
 
