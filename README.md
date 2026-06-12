@@ -10,15 +10,18 @@ B.Tech CSE Student • Aspiring Software Development Engineer • Full Stack Dev
 
 <p align="center">
   <a href="mailto:nisatsama7547@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-purple?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-nisatsama7547%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/nisat-sama-aa02a53a3">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+
+  <a href="https://linkedin.com/in/nisat-sama-aa02a53a3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nisat%20Sama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/nisatsama">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"/>
+
+  <a href="https://github.com/nisatsama" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@nisatsama-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
 
 ---
 
