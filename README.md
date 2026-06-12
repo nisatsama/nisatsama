@@ -131,7 +131,28 @@ React • Node.js • Express.js • MongoDB • Gemini AI • JWT
 
 
 ---
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisatsama&theme=react-dark"/>
+</p>
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nisatsama&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisatsama&layout=compact&theme=radical"/>
+</p>
+## 🏆 Achievements
+
+- 97% in ICSE Class 10
+- 100/100 in Mathematics (Class 10)
+- 100/100 in Chemistry (Class 12)
+- 95.75% in ISC Class 12
+- ## 🤝 Open Source
+
+Interested in contributing to:
+- React Ecosystem
+- Developer Tools
+- AI Applications
+- Beginner Friendly Projects
 ## 🎯 Current Focus
 
 * Solving DSA Problems Daily
@@ -144,9 +165,7 @@ React • Node.js • Express.js • MongoDB • Gemini AI • JWT
 
 <p align="center">
 
-*"The best way to predict the future is to invent it."*
-
-— Alan Kay
+💡 I believe great software is built by continuously learning, building, and improving one project at a time.
 
 </p>
 
