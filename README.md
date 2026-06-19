@@ -41,7 +41,30 @@ B.Tech CSE Student • Aspiring Software Development Engineer • Full Stack Dev
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
+<h3 align="center">🧑🏻‍💻CodeCollab</h3>
+
+<p align="center">
+A production-style, real-time collaborative coding platform that enables multiple developers to write, discuss, and execute code together in a sandboxed environment. Built to facilitate seamless pair programming, technical interviews, and team-based development.
+</p>
+
+### ✨ Features
+
+*Low-Latency Collaboration
+*Stateful Room Synchronization
+*Secure Remote Code Execution
+*Instant Feedback Loop
+
+### 🛠 Tech Stack
+
+Frontend: React.js | Socket.IO Client | Axios | CSS3
+Backend: Node.js | Express.js | Socket.IO
+DevOps & Sandbox: Docker | Linux Container Runtimes
+
+
+
+</td>
 <td width="50%" valign="top">
 
 <h3 align="center">✈️ Travelogia</h3>
