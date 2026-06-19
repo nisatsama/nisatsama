@@ -49,12 +49,10 @@ A production-style, real-time collaborative coding platform that enables multipl
 </p>
 
 ### ✨ Features
-
 * Low-Latency Collaboration
 * Stateful Room Synchronization
 * Secure Remote Code Execution
 * Instant Feedback Loop
-
 ### 🛠 Tech Stack
 
 **Frontend:** React.js | Socket.IO Client | Axios | CSS3  
