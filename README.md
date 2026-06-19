@@ -36,7 +36,6 @@ B.Tech CSE Student • Aspiring Software Development Engineer • Full Stack Dev
 📍 India
 
 ---
-
 # 🚀 Featured Projects
 
 <table>
@@ -51,18 +50,16 @@ A production-style, real-time collaborative coding platform that enables multipl
 
 ### ✨ Features
 
-*Low-Latency Collaboration
-*Stateful Room Synchronization
-*Secure Remote Code Execution
-*Instant Feedback Loop
+* Low-Latency Collaboration
+* Stateful Room Synchronization
+* Secure Remote Code Execution
+* Instant Feedback Loop
 
 ### 🛠 Tech Stack
 
-Frontend: React.js | Socket.IO Client | Axios | CSS3
-Backend: Node.js | Express.js | Socket.IO
-DevOps & Sandbox: Docker | Linux Container Runtimes
-
-
+**Frontend:** React.js | Socket.IO Client | Axios | CSS3  
+**Backend:** Node.js | Express.js | Socket.IO  
+**DevOps & Sandbox:** Docker | Linux Container Runtimes
 
 </td>
 <td width="50%" valign="top">
@@ -85,10 +82,10 @@ A modern MERN travel platform for discovering destinations, booking stays and pl
 
 React • Node.js • Express.js • MongoDB • JWT
 
-
-
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">🤖 AI Resume Analyzer</h3>
@@ -109,40 +106,11 @@ AI-powered ATS Resume Analyzer that evaluates resumes and provides actionable ca
 
 React • Node.js • Express.js • MongoDB • Gemini AI • JWT
 
-
-
 </td>
-
+<td width="50%" valign="top">
+</td>
 </tr>
 </table>
-
----
-
-# ⚡ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,js,python,html,css"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
-</p>
 
 ---
 
