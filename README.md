@@ -130,7 +130,7 @@ React • Node.js • Express.js • MongoDB • Gemini AI • JWT
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisatsama&layout=compact&theme=radical"/>
 </p>
-## 🏆 Achievements
+-## 🏆 Achievements
 
 - 97% in ICSE Class 10
 - 100/100 in Mathematics (Class 10)
