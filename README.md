@@ -109,7 +109,7 @@ React • Node.js • Express.js • MongoDB • Gemini AI • JWT
 
   <td width="50%" valign="top">
 
-<h3 align="center">🚀 ZeroLine</h3>
+<h3 align="center">🌱 ZeroLine</h3>
 
 <p align="center">
 An AI-powered smart productivity assistant built to eliminate last-minute stress by intelligently managing tasks, schedules, goals, and deadlines. Powered by Google Gemini, it optimizes daily workflows with automated prioritization, focus analytics, and proactive deadline reminders.
@@ -126,6 +126,8 @@ An AI-powered smart productivity assistant built to eliminate last-minute stress
 **Frontend:** React.js | JavaScript (ES6+) | CSS3  
 **Backend:** Node.js | Express.js | Gemini API  
 **DevOps & Cloud:** Google Cloud Run | Git | GitHub
+
+Live Link : https://zeroline-816029639599.asia-southeast1.run.app/
 
 
 </td>
