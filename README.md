@@ -40,27 +40,7 @@ B.Tech CSE Student • Aspiring Software Development Engineer • Full Stack Dev
 
 <table>
 <tr>
-  <td width="50%" valign="top">
 
-<h3 align="center">🚀 ZeroLine</h3>
-
-<p align="center">
-An AI-powered smart productivity assistant built to eliminate last-minute stress by intelligently managing tasks, schedules, goals, and deadlines. Powered by Google Gemini, it optimizes daily workflows with automated prioritization, focus analytics, and proactive deadline reminders.
-</p>
-
-### ✨ Features
-* AI-Driven Task Prioritization
-* Context-Aware Voice Reminders
-* Focus Analytics & Pomodoro Timer
-* Smart Planning & Habit Tracking
-
-### 🛠 Tech Stack
-
-**Frontend:** React.js | JavaScript (ES6+) | CSS3  
-**Backend:** Node.js | Express.js | Gemini API  
-**DevOps & Cloud:** Google Cloud Run | Git | GitHub
-
-</td>
 <td width="50%" valign="top">
 
 <h3 align="center">🧑🏻‍💻CodeCollab</h3>
@@ -126,7 +106,28 @@ AI-powered ATS Resume Analyzer that evaluates resumes and provides actionable ca
 React • Node.js • Express.js • MongoDB • Gemini AI • JWT
 
 </td>
-<td width="50%" valign="top">
+
+  <td width="50%" valign="top">
+
+<h3 align="center">🚀 ZeroLine</h3>
+
+<p align="center">
+An AI-powered smart productivity assistant built to eliminate last-minute stress by intelligently managing tasks, schedules, goals, and deadlines. Powered by Google Gemini, it optimizes daily workflows with automated prioritization, focus analytics, and proactive deadline reminders.
+</p>
+
+### ✨ Features
+* AI-Driven Task Prioritization
+* Context-Aware Voice Reminders
+* Focus Analytics & Pomodoro Timer
+* Smart Planning & Habit Tracking
+
+### 🛠 Tech Stack
+
+**Frontend:** React.js | JavaScript (ES6+) | CSS3  
+**Backend:** Node.js | Express.js | Gemini API  
+**DevOps & Cloud:** Google Cloud Run | Git | GitHub
+
+
 </td>
 </tr>
 </table>
