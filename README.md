@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nisat Sama</h1>
-https://portfolio-silk-seven-65.vercel.app/
+
 <h3 align="center">
 B.Tech CSE Student • Aspiring Software Development Engineer • Full Stack Developer
 </h3>
@@ -18,6 +18,10 @@ B.Tech CSE Student • Aspiring Software Development Engineer • Full Stack Dev
   <a href="https://github.com/nisatsama">
     <img src="https://img.shields.io/badge/GITHUB-9D4EDD?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+ <a href="https://portfolio-silk-seven-65.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-FF69B4?style=for-the-badge" alt="Portfolio"/>
+</a>
+  
 </p>
 
 
