@@ -84,7 +84,7 @@ A modern MERN travel platform for discovering destinations, booking stays and pl
 ### 🛠 Tech Stack
 
 React • Node.js • Express.js • MongoDB • JWT
-
+Live Link : https://travelogia-8m7e.vercel.app/
 </td>
 </tr>
 
