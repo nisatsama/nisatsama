@@ -2,7 +2,7 @@
   <img width="100%" src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/Black%20Minimalist%20Linkedin%20Banner%20(1).png" alt="Nisat Sama Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Nisat Sama</h1>
+<h1 align="center">Hi, I'm Nisat Sama</h1>
 
 <h3 align="center">
 B.Tech CSE Student • Aspiring Software Development Engineer • Full Stack Developer
