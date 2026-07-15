@@ -29,7 +29,7 @@ B.Tech CSE Student • Aspiring Software Development Engineer • Full Stack Dev
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering (2nd Year)
+🎓 B.Tech Computer Science Engineering (3rd Year)
 
 💻Full Stack Development, AI Applications and Software Engineering
 
