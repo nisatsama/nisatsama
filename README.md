@@ -31,9 +31,7 @@ B.Tech CSE Student • Aspiring Software Development Engineer • Full Stack Dev
 
 🎓 B.Tech Computer Science Engineering (2nd Year)
 
-💻 Passionate about Full Stack Development, AI Applications and Software Engineering
-
-🌱 Currently learning MERN Stack, System Design and Advanced DSA
+💻Full Stack Development, AI Applications and Software Engineering
 
 🚀 Building projects that solve real-world problems
 
