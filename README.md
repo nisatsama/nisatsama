@@ -187,5 +187,5 @@ Interested in contributing to:
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! Build with love by Nisat Sama!
 </p>
