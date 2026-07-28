@@ -139,53 +139,122 @@ Live Link : https://zeroline-816029639599.asia-southeast1.run.app/
 
 ---
 
-# 📊 GitHub Statistics
+<!-- ========================================= -->
+<!--            DEVELOPER STORY                -->
+<!-- ========================================= -->
+
+<h1 align="center">🌱 Beyond the Code</h1>
 
 <p align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nisatsama&theme=radical&background=1a1025&ring=bf5af2&fire=bf5af2&currStreakLabel=ffffff&sideLabels=ffffff&border=2d1b4e&border_radius=10"/>
+<i>
+I'm not trying to become a developer overnight.
+I'm building myself one project, one bug, and one commit at a time.
+</i>
 </p>
+
+---
+
 
 
 
 ---
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisatsama&theme=react-dark"/>
-</p>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nisatsama&show_icons=true&theme=radical"/>
+## 📅 My Developer Journey
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisatsama&layout=compact&theme=radical"/>
-</p>
-🏆 Achievements
 
-- 97% in ICSE Class 10
-- 100/100 in Mathematics (Class 10)
-- 100/100 in Chemistry (Class 12)
-- 95.75% in ISC Class 12
-- ## 🤝 Open Source
+2024 🌱 Started Programming
 
-Interested in contributing to:
-- React Ecosystem
-- Developer Tools
-- AI Applications
-- Beginner Friendly Projects
-## 🎯 Current Focus
+        ↓
 
-* Solving DSA Problems Daily
-* Building Full Stack Projects
-* Preparing for SDE Internships
-* Learning System Design
-* Strengthening Backend Development
+Learnt C and Java
+
+        ↓
+
+Solved hundreds of DSA problems
+
+        ↓
+
+Built Full Stack Applications
+
+        ↓
+
+Learning Spring Boot & REST APIs
+
+        ↓
+
+Exploring Backend Architecture
+
+        ↓
+
+🚀 Future Software Engineer
+
+
+---
+
+## 🏆 Developer Milestones
+
+🏅 Flipkart GRiD 8.0 — Qualified for Round 2
+
+🏅 Infosys Springboard – Path to Future (Cohort 9)
+
+🏅 IBM SkillsBuild × AICTE AI for Sustainability Virtual Internship
+
+🏅 Building Full Stack Projects with Java, Spring Boot & React
+
+---
+
+
+
+
+
+
+## ☕ Fun Facts
+
+
+name: Nisat Sama
+
+currently_learning:
+  - Spring Boot
+  - System Design
+  - Docker
+
+loves:
+  - Backend Development
+  - Problem Solving
+  - Clean Code
+
+late_night_coder: true
+
+coffee_required: true
+
+debugging:
+  favourite_part: Finding the one missing semicolon 😄
+
+
+---
+
+## 💡 What I Believe
+
+> Great software isn't built by writing thousands of lines of code.
+
+> It's built by writing better code than yesterday.
+
+---
+
+## 🎯 Current Mission
+
+- ✅ Build production-ready backend applications
+- ✅ Master Spring Boot ecosystem
+- ✅ Strengthen Data Structures & Algorithms
+- ⏳ Make meaningful Open Source contributions
+- 🎯 Secure an SDE Internship
 
 ---
 
 <p align="center">
 
-💡 I believe great software is built by continuously learning, building, and improving one project at a time.
+### ⭐ One Commit Better Every Day ⭐
 
-</p>
+<i>"Consistency beats intensity."</i>
 
-<p align="center">
-⭐ Thanks for visiting my profile! Build with love by Nisat Sama!
 </p>
