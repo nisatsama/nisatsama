@@ -191,7 +191,7 @@ Exploring Backend Architecture
 
 ## 🏆 Developer Milestones
 
-🏅 Flipkart GRiD 8.0 — Qualified for Round 2
+🏅 Flipkart GRiD 8.0 — Qualified for Round 3
 
 🏅 Infosys Springboard – Path to Future (Cohort 9)
 
