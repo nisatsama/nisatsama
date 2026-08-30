@@ -248,7 +248,11 @@ debugging:
 - 🎯 Secure an SDE Internship
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nisatsama&style=flat&color=6A5ACD" alt="profile views"/>
+  &nbsp;
+ 
+</p>
 <p align="center">
 
 ### ⭐ One Commit Better Every Day ⭐
