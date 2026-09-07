@@ -17,23 +17,10 @@
   
 </p>
 
-<h1 align="center">🌱 Beyond the Code</h1>
 
-<p align="center">
-<i>
-I'm not trying to become a developer overnight.
-I'm building myself one project, one bug, and one commit at a time.
-</i>
-</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nisatsama&style=flat&color=6A5ACD" alt="profile views"/>
   &nbsp;
  
 </p>
-<p align="center">
 
-### ⭐ One Commit Better Every Day ⭐
-
-<i>"Consistency beats intensity."</i>
-
-</p>
