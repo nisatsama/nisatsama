@@ -9,26 +9,26 @@
 <td width="24%" valign="top" align="center">
 
 <!-- Avatar Card -->
-<img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/avatar.svg" width="100%" alt="Nisat Sama Avatar" />
+<img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assests/avatar.svg" width="100%" alt="Nisat Sama Avatar" />
 
 <br/>
 
 <!-- Identity Information Card -->
 <a href="https://github.com/nisatsama">
-  <img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/profile-card.svg" width="100%" alt="Nisat Sama Identity Card" />
+  <img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assests/profile-card.svg" width="100%" alt="Nisat Sama Identity Card" />
 </a>
 
 <br/>
 
 <!-- Currently Building Card -->
 <a href="https://github.com/nisatsama/HookForge">
-  <img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/currently-building.svg" width="100%" alt="Currently Building HookForge" />
+  <img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assests/currently-building.svg" width="100%" alt="Currently Building HookForge" />
 </a>
 
 <br/>
 
 <!-- Achievements Card -->
-<img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/achievements.svg" width="100%" alt="Nisat Sama Key Achievements" />
+<img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assests/achievements.svg" width="100%" alt="Nisat Sama Key Achievements" />
 
 </td>
 
@@ -41,7 +41,7 @@
 <td width="74%" valign="top">
 
 <!-- Top Hero: Workstation + Embedded Cyberpunk Terminal -->
-<img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/hero-terminal.svg" width="100%" alt="Nisat Sama Terminal and Cyberpunk Developer Workstation" />
+<img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assests/hero-terminal.svg" width="100%" alt="Nisat Sama Terminal and Cyberpunk Developer Workstation" />
 
 <br/><br/>
 
@@ -65,7 +65,7 @@
 <br/>
 
 <!-- Full-Width Section: Tech Arsenal -->
-<img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/tech-arsenal.svg" width="100%" alt="Tech Arsenal: Java, Spring Boot, PostgreSQL, MySQL, React, JavaScript, Docker, AWS, Git, Linux" />
+<img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assests/tech-arsenal.svg" width="100%" alt="Tech Arsenal: Java, Spring Boot, PostgreSQL, MySQL, React, JavaScript, Docker, AWS, Git, Linux" />
 
 <br/><br/>
 
@@ -74,12 +74,12 @@
   <tr>
     <td width="49%" valign="top">
       <a href="https://github.com/nisatsama/HookForge">
-        <img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/latest-activity.svg" width="100%" alt="Latest Activity Card" />
+        <img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assests/latest-activity.svg" width="100%" alt="Latest Activity Card" />
       </a>
     </td>
     <td width="2%"></td>
     <td width="49%" valign="top">
-      <img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/fun-fact.svg" width="100%" alt="Fun Fact Card" />
+      <img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assests/fun-fact.svg" width="100%" alt="Fun Fact Card" />
     </td>
   </tr>
 </table>
