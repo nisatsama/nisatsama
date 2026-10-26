@@ -1,26 +1,35 @@
-# Hi, I'm Nisat Sama
+```bash
+nisat@dev:~$ whoami
+Nisat Sama — Java Full-Stack Developer in progress.
+Building things that work beyond localhost.
+```
 
-**3rd Year CSE Student | Java Backend & Full-Stack Developer**
+```yaml
+# tech-stack.yml
 
-I build full-stack applications with a focus on backend engineering, APIs, authentication, and real-time systems.
+backend:   [Java, Spring Boot, REST APIs, JWT, OAuth]
+frontend:  [React, JavaScript, HTML, CSS, Tailwind CSS]
+database:  [MySQL, PostgreSQL, MongoDB]
+tools:     [Git, GitHub, Docker, Postman]
+cloud:     [Google Cloud Run, Vercel, Render]
+currently: [Backend Engineering, System Design, Open Source]
+```
 
-### Tech Stack
+```bash
+nisat@dev:~$ ls ~/projects
+CodeCollab/   Travelogia/   ZeroLine/   HookForge/
+```
 
-- **Languages:** Java, JavaScript, SQL
-- **Backend:** Spring Boot, Spring Security, REST APIs, JWT, OAuth
-- **Frontend:** React, HTML, CSS, Tailwind CSS
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools & Cloud:** Git, GitHub, Docker, Postman, Google Cloud, Vercel
+```bash
+nisat@dev:~$ echo $PHILOSOPHY
+"Less tutorial code. More production-minded engineering."
+```
 
-### Projects
+```bash
+nisat@dev:~$ exit
+Connection to localhost closed.
+```
 
-- **CodeCollab** — Real-time collaborative code editor
-- **Travelogia** — Full-stack travel booking platform
-- **ZeroLine** — AI-powered productivity assistant
-- **HookForge** — Webhook delivery and retry system built with Spring Boot
-
-### Currently Focused On
-
-Building reliable backend systems, improving system design fundamentals, and shipping production-ready applications.
-
-[LinkedIn](https://www.linkedin.com/) · [Email](mailto:nisatsama@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nisatsama&style=flat-square&color=555555&label=PROFILE+VISITS" alt="Profile views" />
+</p>
