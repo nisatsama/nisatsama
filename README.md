@@ -1,249 +1,91 @@
-# Nisat Sama — Developer Profile
-
-<!-- Replace the banner URL with your own artwork if you want a custom cyberpunk background. -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:312e81,100:7c3aed&text=NISAT%20SAMA&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20Engineering%20%7C%20Distributed%20Systems%20%7C%20Full%20Stack&descAlignY=58&descSize=16" width="100%" alt="Nisat Sama profile banner"/>
-</div>
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td width="32%" valign="top">
 
-## `nisat@github:~`
+<!-- ========================================== -->
+<!-- LEFT SIDEBAR: PROFILE IDENTITY (~24% WIDTH) -->
+<!-- ========================================== -->
+<td width="24%" valign="top" align="center">
 
-**Nisat Sama**
+<!-- Avatar Card -->
+<img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/avatar.svg" width="100%" alt="Nisat Sama Avatar" />
 
-`Java Backend Developer`
+<br/>
 
-Building systems. Solving problems. Learning by shipping.
+<!-- Identity Information Card -->
+<a href="https://github.com/nisatsama">
+  <img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/profile-card.svg" width="100%" alt="Nisat Sama Identity Card" />
+</a>
 
-📍 India
+<br/>
 
-🌐 [GitHub](https://github.com/nisatsama)
+<!-- Currently Building Card -->
+<a href="https://github.com/nisatsama/HookForge">
+  <img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/currently-building.svg" width="100%" alt="Currently Building HookForge" />
+</a>
 
-🎯 **Current focus**
-- Spring Boot backend engineering
-- Webhooks and reliable delivery systems
-- API security and database design
-- Data structures and algorithms
+<br/>
 
-> Code. Learn. Build. Repeat.
+<!-- Achievements Card -->
+<img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/achievements.svg" width="100%" alt="Nisat Sama Key Achievements" />
 
 </td>
-<td width="68%" valign="top">
 
-### `$ whoami`
+<!-- Column Spacer -->
+<td width="2%"></td>
 
-```text
-> role
-Backend-focused Software Developer
+<!-- ========================================== -->
+<!-- RIGHT MAIN DASHBOARD (~74% WIDTH)          -->
+<!-- ========================================== -->
+<td width="74%" valign="top">
 
-> what_i_do
-I build web applications and backend systems
-with a focus on clean APIs, reliable services,
-database design, and practical engineering.
+<!-- Top Hero: Workstation + Embedded Cyberpunk Terminal -->
+<img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/hero-terminal.svg" width="100%" alt="Nisat Sama Terminal and Cyberpunk Developer Workstation" />
 
-> current_focus
-Building HookForge — a webhook orchestration
-platform using Java, Spring Boot, and PostgreSQL.
+<br/><br/>
 
-> learning
-Distributed systems, system design,
-backend security, and scalable architectures.
+<!-- Middle Row: GitHub Statistics & Contribution Activity -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="49%" valign="top">
+      <a href="https://github.com/nisatsama">
+        <img src="https://github-readme-stats.vercel.app/api?username=nisatsama&show_icons=true&theme=midnight-purple&bg_color=070D1C&title_color=8B35FF&icon_color=00D9FF&text_color=F1F3F8&border_color=8B35FF&border_radius=8&hide_border=false&rank_icon=github" width="100%" alt="Nisat Sama GitHub Stats" />
+      </a>
+    </td>
+    <td width="2%"></td>
+    <td width="49%" valign="top">
+      <a href="https://github.com/nisatsama">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisatsama&theme=dark&background=070D1C&border=8B35FF&stroke=8B35FF&ring=8B35FF&fire=FF9D36&currStreakLabel=00D9FF&sideNums=F1F3F8&sideLabels=A0A8BC&dates=727C94&border_radius=8" width="100%" alt="Nisat Sama Contribution Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-> life_motto
-Consistency compounds.
-```
+<br/>
+
+<!-- Full-Width Section: Tech Arsenal -->
+<img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/tech-arsenal.svg" width="100%" alt="Tech Arsenal: Java, Spring Boot, PostgreSQL, MySQL, React, JavaScript, Docker, AWS, Git, Linux" />
+
+<br/><br/>
+
+<!-- Bottom Row: Latest Activity & Fun Fact -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="49%" valign="top">
+      <a href="https://github.com/nisatsama/HookForge">
+        <img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/latest-activity.svg" width="100%" alt="Latest Activity Card" />
+      </a>
+    </td>
+    <td width="2%"></td>
+    <td width="49%" valign="top">
+      <img src="https://raw.githubusercontent.com/nisatsama/nisatsama/main/assets/fun-fact.svg" width="100%" alt="Fun Fact Card" />
+    </td>
+  </tr>
+</table>
 
 </td>
 </tr>
 </table>
-
----
-
-## `01` — Currently Building
-
-<table>
-<tr>
-<td width="100%">
-
-### ⚡ HookForge
-**Webhook Orchestration Platform**
-
-Building a backend platform for managing webhook endpoints and delivering events reliably.
-
-- Java · Spring Boot · PostgreSQL
-- API-key authentication and endpoint management
-- Delivery tracking, retries, and idempotency
-- Focus on reliability, security, and backend architecture
-
-*Currently in development.*
-
-</td>
-</tr>
-</table>
-
-## `02` — Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [⚡ CodeCollab](https://github.com/nisatsama/CodeCollab)
-
-**Real-Time Collaborative Coding**
-
-A collaborative coding platform built around real-time communication and code execution.
-
-- React and Node.js
-- Socket.IO collaboration
-- Monaco Editor
-- Docker-based code execution
-
-[Repository](https://github.com/nisatsama/CodeCollab) · [Live Demo](https://code-collab-phi-one.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### [✈️ Travelogia](https://github.com/nisatsama/Travelogia)
-
-**Travel Booking Web Application**
-
-A full-stack application for exploring destinations and managing travel bookings.
-
-- React and Express.js
-- MongoDB and JWT authentication
-- Booking and favorites management
-- Responsive user dashboard
-
-[Repository](https://github.com/nisatsama/Travelogia) · [Live Demo](https://travelogia-8m7e.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🤖 AIResumeAnalyser](https://github.com/nisatsama/AIResumeAnalyser)
-
-**AI-Powered Resume Analysis**
-
-An application that processes resumes and uses an LLM to generate analysis.
-
-- React and Express.js
-- Google Gemini API
-- PDF processing
-- Authentication and analysis dashboard
-
-[Repository](https://github.com/nisatsama/AIResumeAnalyser) · [Live Demo](https://ai-resume-analyser-brown.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### [🧠 ZeroLine — LineZero](https://github.com/nisatsama/LineZero)
-
-**AI-Powered Productivity Assistant**
-
-A productivity application designed to help users organize tasks and plan their schedules.
-
-- React, Node.js, and MongoDB
-- AI-assisted task breakdown and prioritization
-- Schedule generation and reminders
-- Pomodoro timer and calendar export
-
-[Repository](https://github.com/nisatsama/LineZero) · [Live Demo](https://zeroline-816029639599.asia-southeast1.run.app)
-
-</td>
-</tr>
-</table>
-
----
-
-## `03` — GitHub Statistics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nisatsama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=a78bfa&icon_color=22d3ee&text_color=cbd5e1" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisatsama&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=a78bfa&text_color=cbd5e1" alt="Most used programming languages"/>
-</div>
-
-<div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=nisatsama&theme=tokyonight&hide_border=true&background=020617&ring=a78bfa&fire=22d3ee&currStreakLabel=a78bfa" alt="GitHub contribution streak"/>
-</div>
-
----
-
-## `04` — Tech Arsenal
-
-<div align="center">
-
-| Backend | Frontend | Data & Infrastructure | Tools |
-|---|---|---|---|
-| Java | React | PostgreSQL | Git |
-| Spring Boot | JavaScript | MongoDB | GitHub |
-| Node.js | HTML5 / CSS3 | Redis | Docker |
-| REST APIs | Responsive UI | AWS | Linux |
-| Spring Security |  |  |  |
-
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,js,postgres,mongodb,redis,docker,aws,git,github,linux&theme=dark" alt="Technology stack icons"/>
-</div>
-
----
-
-## `05` — Problem Solving
-
-I practice data structures and algorithms to strengthen problem-solving skills and prepare for technical interviews.
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-
-</div>
-
-**Current priorities**
-- Improve contest performance
-- Strengthen graph, dynamic programming, and advanced data structure skills
-- Build intuition for complexity analysis
-- Translate problem-solving skills into production-quality code
-
----
-
-## `06` — Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nisatsama&bg_color=020617&color=c4b5fd&line=8b5cf6&point=22d3ee&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-</div>
-
----
-
-## `07` — A Little About Me
-
-```text
-> interests
-Backend systems • APIs • Databases • Distributed systems
-
-> engineering_principles
-Readable code • Reliability • Security • Continuous improvement
-
-> next_milestone
-Become a stronger backend engineer by building,
-testing, deploying, and improving real systems.
-
-> status
-Learning in public. Building consistently.
-```
-
----
-
-<div align="center">
-
-### `KEEP BUILDING.`
-
-**Code. Learn. Build. Repeat.**
-
-[GitHub](https://github.com/nisatsama) · [Explore My Repositories](https://github.com/nisatsama?tab=repositories)
-
-<img src="https://komarev.com/ghpvc/?username=nisatsama&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
