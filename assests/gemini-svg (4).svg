@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 330" width="100%" height="auto">
+  <defs>
+    <!-- Space Sky Gradient -->
+    <linearGradient id="spaceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020611" />
+      <stop offset="45%" stop-color="#080724" />
+      <stop offset="85%" stop-color="#190B38" />
+      <stop offset="100%" stop-color="#2D114D" />
+    </linearGradient>
+    <linearGradient id="neonCyanPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" />
+      <stop offset="100%" stop-color="#8B35FF" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Base Canvas -->
+  <rect width="840" height="330" rx="10" fill="url(#spaceGradient)" />
+
+  <!-- Distant Celestial Stars / Galaxy Nebulae -->
+  <circle cx="560" cy="60" r="1.5" fill="#FFFFFF" opacity="0.9" />
+  <circle cx="620" cy="40" r="2" fill="#00D9FF" opacity="0.8" />
+  <circle cx="700" cy="75" r="1" fill="#FFFFFF" opacity="0.6" />
+  <circle cx="780" cy="35" r="2" fill="#8B35FF" opacity="0.9" />
+  <circle cx="510" cy="110" r="1.5" fill="#FFFFFF" opacity="0.7" />
+  <circle cx="670" cy="120" r="1" fill="#FFFFFF" opacity="0.5" />
+  <circle cx="740" cy="140" r="1.8" fill="#00D9FF" opacity="0.8" />
+
+  <!-- Mountain Silhouettes Outside Window -->
+  <polygon points="460,260 550,150 630,260" fill="#080417" opacity="0.7" />
+  <polygon points="570,260 670,120 770,260" fill="#0D0721" opacity="0.85" />
+  <polygon points="690,260 760,170 840,260" fill="#070314" opacity="0.9" />
+
+  <!-- Cyberpunk Window Framework -->
+  <line x1="470" y1="0" x2="470" y2="260" stroke="#8B35FF" stroke-opacity="0.25" stroke-width="2" />
+  <line x1="680" y1="0" x2="680" y2="260" stroke="#8B35FF" stroke-opacity="0.25" stroke-width="2" />
+
+  <!-- Workstation Desk Surface -->
+  <rect x="450" y="240" width="390" height="90" fill="#050B19" stroke="#8B35FF" stroke-opacity="0.4" stroke-width="1" />
+  
+  <!-- Desk Laptop with Code Display -->
+  <polygon points="570,250 670,250 690,285 550,285" fill="#131C35" stroke="#8B35FF" stroke-width="1" />
+  <polygon points="578,200 662,200 668,248 572,248" fill="#070D1C" stroke="#00D9FF" stroke-width="1.2" />
+  <!-- Code lines on laptop -->
+  <line x1="585" y1="210" x2="620" y2="210" stroke="#36E878" stroke-width="1.8" />
+  <line x1="585" y1="218" x2="650" y2="218" stroke="#00D9FF" stroke-width="1.8" />
+  <line x1="585" y1="226" x2="635" y2="226" stroke="#8B35FF" stroke-width="1.8" />
+  <line x1="585" y1="234" x2="615" y2="234" stroke="#F1F3F8" stroke-width="1.8" />
+
+  <!-- Neon Wall Sign: KEEP BUILDING -->
+  <g transform="translate(620, 30)">
+    <rect x="0" y="0" width="190" height="34" rx="6" fill="#070D1C" stroke="#8B35FF" stroke-width="1.5" filter="drop-shadow(0 0 8px #8B35FF)" />
+    <text x="95" y="22" fill="#F1F3F8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="900" font-size="12" letter-spacing="3" text-anchor="middle">KEEP BUILDING</text>
+  </g>
+
+  <!-- Cozy Desk Lamp with Warm Glow -->
+  <path d="M765,180 Q765,230 755,245" stroke="#8B35FF" stroke-width="3" fill="none" />
+  <polygon points="745,175 780,170 785,185 750,190" fill="#FF9D36" opacity="0.9" />
+  <circle cx="765" cy="195" r="25" fill="#FF9D36" opacity="0.15" />
+
+  <!-- Left Side: Translucent Terminal Panel -->
+  <g transform="translate(18, 16)">
+    <!-- Terminal Outer Frame -->
+    <rect width="455" height="298" rx="8" fill="#070D1C" fill-opacity="0.94" stroke="#8B35FF" stroke-width="1.4" />
+    
+    <!-- Terminal Titlebar -->
+    <rect width="455" height="28" rx="8" fill="#050B19" stroke="#8B35FF" stroke-opacity="0.3" stroke-width="0.8" />
+    <circle cx="16" cy="14" r="4.5" fill="#FF5F56" />
+    <circle cx="30" cy="14" r="4.5" fill="#FFBD2E" />
+    <circle cx="44" cy="14" r="4.5" fill="#27C93F" />
+    <text x="227" y="18" fill="#727C94" font-family="monospace" font-size="11" text-anchor="middle">nisat@github:~</text>
+
+    <!-- Terminal Content (Monospaced & Exact Line Spacing) -->
+    <!-- Prompt 1 -->
+    <text x="18" y="52" fill="#36E878" font-family="monospace" font-weight="bold" font-size="11.5">> whoami</text>
+    <text x="18" y="70" fill="#F1F3F8" font-family="monospace" font-size="11">Java Backend Developer | Problem Solver | Full-Stack</text>
+    
+    <!-- Prompt 2 -->
+    <text x="18" y="98" fill="#36E878" font-family="monospace" font-weight="bold" font-size="11.5">> what_do_i_do</text>
+    <text x="18" y="116" fill="#A0A8BC" font-family="monospace" font-size="10.5">I build reliable backend systems, develop full-stack</text>
+    <text x="18" y="132" fill="#A0A8BC" font-family="monospace" font-size="10.5">applications, and turn ideas into working software.</text>
+    
+    <!-- Prompt 3 -->
+    <text x="18" y="160" fill="#36E878" font-family="monospace" font-weight="bold" font-size="11.5">> current_focus</text>
+    <text x="18" y="178" fill="#A0A8BC" font-family="monospace" font-size="10.5">Building backend systems with Java & Spring Boot,</text>
+    <text x="18" y="194" fill="#A0A8BC" font-family="monospace" font-size="10.5">exploring distributed systems, and strengthening DSA.</text>
+    
+    <!-- Prompt 4 -->
+    <text x="18" y="222" fill="#36E878" font-family="monospace" font-weight="bold" font-size="11.5">> life_motto</text>
+    <text x="18" y="240" fill="#00D9FF" font-family="monospace" font-size="11">Code. Learn. Build. Repeat.</text>
+    
+    <!-- Idle Cursor -->
+    <text x="18" y="268" fill="#36E878" font-family="monospace" font-weight="bold" font-size="12">> <tspan fill="#36E878" opacity="0.9">█</tspan></text>
+  </g>
+</svg>
