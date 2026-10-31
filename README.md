@@ -12,7 +12,7 @@ frontend:  [React, JavaScript, HTML, CSS, Tailwind CSS]
 database:  [MySQL, PostgreSQL, MongoDB]
 tools:     [Git, GitHub, Docker, Postman]
 cloud:     [Google Cloud Run, Vercel, Render]
-currently: [Backend Engineering, System Design, Open Source]
+
 ```
 
 ```bash
