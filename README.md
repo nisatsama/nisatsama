@@ -40,5 +40,8 @@ Connection to localhost closed.
 </p>
 
 <p align="center">
-  <img src="./commit-pet.svg" alt="My Commit Pet" />
+  <img
+    src="https://raw.githubusercontent.com/nisatsama/HookForge/main/commit-pet.svg"
+    alt="My Commit Pet"
+  />
 </p>
