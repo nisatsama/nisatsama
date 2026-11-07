@@ -39,9 +39,4 @@ Connection to localhost closed.
   <img src="https://komarev.com/ghpvc/?username=nisatsama&style=flat-square&color=555555&label=PROFILE+VISITS" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/nisatsama/HookForge/main/commit-pet.svg"
-    alt="My Commit Pet"
-  />
-</p>
+
