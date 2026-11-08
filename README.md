@@ -50,3 +50,6 @@ Connection to localhost closed.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nisatsama&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nisatsama&show_icons=true&theme=tokyonight&rank_icon=default&hide_border=true&include_all_commits=true" alt="GitHub Stats and Rank" />
+</p>
