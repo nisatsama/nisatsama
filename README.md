@@ -39,4 +39,14 @@ Connection to localhost closed.
   <img src="https://komarev.com/ghpvc/?username=nisatsama&style=flat-square&color=555555&label=PROFILE+VISITS" alt="Profile views" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nisatsama&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true&include_all_commits=true" width="49%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisatsama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nisatsama&theme=tokyonight&hide_border=true" width="60%" />
+</p>
