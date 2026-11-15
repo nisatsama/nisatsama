@@ -9,8 +9,7 @@ Building reliable applications beyond localhost.
 ```yaml
 # tech-stack.yml
 
-languages:  [Java, JavaScript, C, SQL]
-
+languages:  [Java, JavaScript, C, SQL,Python]
 backend:    [Spring Boot, Spring Security, REST APIs, JWT, OAuth]
 frontend:   [React, HTML, CSS, Tailwind CSS]
 database:   [PostgreSQL, MySQL, MongoDB, Redis]
