@@ -27,16 +27,6 @@ Travelogia/   # Full-stack travel booking application
 ZeroLine/     # AI-powered productivity assistant
 ```
 
-```bash
-nisat@dev:~$ git contributions
-
-[MERGED] Pugdom v2 — PR #65
-         Restyled login, thread, and search interfaces.
-         Included in the v1.1.0 release.
-
-[OPEN]   Kestra — PR #22710
-         Fix: Skip pending drafts in bulk flow updates.
-```
 
 ```bash
 nisat@dev:~$ echo $PHILOSOPHY
