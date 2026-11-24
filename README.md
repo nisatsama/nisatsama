@@ -12,13 +12,13 @@ engineering, system reliability, and production-minded software.
 ```yaml
 # tech-stack.yml
 
-languages:  [Java, JavaScript, C, SQL,Python]
-backend:    [Spring Boot, Spring Security, REST APIs, JWT, OAuth]
-frontend:   [React, HTML, CSS, Tailwind CSS]
-database:   [PostgreSQL, MySQL, MongoDB, Redis]
-messaging:  [Apache Kafka]
-tools:      [Git, GitHub, Docker, Postman]
-cloud:      [Google Cloud Run, Vercel, Render]
+languages:    [Java, JavaScript, SQL, C]
+backend:      [Spring Boot, Spring Security, Spring Data JPA, REST APIs, JWT, OAuth2]
+databases:    [PostgreSQL, MySQL, MongoDB, Redis]
+messaging:    [Apache Kafka]
+frontend:     [React, HTML, CSS, Tailwind CSS]
+devops:       [Docker, Git, GitHub, Postman]
+cloud:        [Google Cloud Run, Vercel, Render]
 ```
 
 ```bash
