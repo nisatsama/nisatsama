@@ -2,8 +2,11 @@
 nisat@dev:~$ whoami
 
 Nisat Sama
-Java Backend Developer | Full-Stack Engineer
-Building reliable applications beyond localhost.
+Java Backend Developer | Spring Boot | Distributed Systems
+
+Building reliable backend systems with Java, Spring Boot, and
+event-driven architecture. Focused on scalable APIs, database
+engineering, system reliability, and production-minded software.
 ```
 
 ```yaml
