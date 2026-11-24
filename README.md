@@ -29,9 +29,6 @@ HookForge/     # Multi-tenant webhook delivery infrastructure
 
 ShelfSense/    # Full-stack retail inventory intelligence platform
                # Multi-location inventory, concurrent reservations and demand forecasting
-
-SupportFlow/   # SLA-driven customer support platform
-               # Ticket lifecycle management, role-based access and backend workflows
 ```
 
 
