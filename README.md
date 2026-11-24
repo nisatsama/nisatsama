@@ -36,10 +36,13 @@ SupportFlow/   # SLA-driven customer support platform
 
 
 ```bash
-nisat@dev:~$ echo $PHILOSOPHY
+nisat@dev:~$ cat engineering-principles.md
 
-"Less tutorial code. More production-minded engineering.
-Understand the problem. Build the solution. Test the edge cases."
+01. Understand the problem before choosing the technology.
+02. Design for failure, not just the happy path.
+03. Write tests for edge cases and concurrency.
+04. Prefer maintainable architecture over unnecessary complexity.
+05. Build, test, deploy, and continuously improve.
 ```
 
 ```bash
