@@ -24,10 +24,14 @@ cloud:        [Google Cloud Run, Vercel, Render]
 ```bash
 nisat@dev:~$ ls ~/projects
 
-HookForge/    # Multi-tenant webhook delivery infrastructure
-CodeCollab/   # Real-time collaborative coding platform
-Travelogia/   # Full-stack travel booking application
-ZeroLine/     # AI-powered productivity assistant
+HookForge/     # Multi-tenant webhook delivery infrastructure
+               # Transactional outbox, Kafka, retries and reliable delivery
+
+ShelfSense/    # Full-stack retail inventory intelligence platform
+               # Multi-location inventory, concurrent reservations and demand forecasting
+
+SupportFlow/   # SLA-driven customer support platform
+               # Ticket lifecycle management, role-based access and backend workflows
 ```
 
 
